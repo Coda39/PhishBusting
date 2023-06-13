@@ -14,7 +14,7 @@
 	
 <section>
   <picture class="promo-art">
-    <img src="/stressed-person-using-computer-at-desk.png" alt="a random doodle" style="max-width: 100%">
+    <img src="/stressed-person-using-computer-at-desk.png" alt="a random doodle" style="max-width: 65%">
   </picture>
 </section>
 
@@ -98,11 +98,7 @@
 		color:var(--text-2)
 	}
 	.promo-art{
-		align-self:center;
-	}
-	.promo-art > img {
-  object-fit: cover;
-}
-	.image{
+		display:flex;
+		justify-content:center;
 	}
 </style>
