@@ -8,24 +8,24 @@ categories:
  - Blog Post 
 published: true
 ---
+# Table of Contents
+
 
 # **What are .zip domains?**
 
 A .zip domain is a top-level domain (TLD) In the domain name system (DNS) that is meant to be used by businesses in storage media technology
 **![What is a Top-Level Domain and Why it's Important | Bobology.com](https://lh6.googleusercontent.com/_Cehu4FyLknbi3awChdP3edVMBgPcQuRB9K1OJ8PGxsJAY7xsFpg4dQ14GkHUSLjYyUYJBJDjUdDqecls80CSUKlVJS07oF3YIISZEbaA7LGZWpPFJXsDXlgdhzBFnaFDv6TqzZPAUGA)**
-TLD is the last part of a domain name that comes after the final dot
+![What Is a Top Level Domain (TLD)? Top Level Domains Explained](https://static.semrush.com/blog/uploads/media/c8/22/c822a1c5f9dc879108dd69e37b698656/sjPzJFCy11Ir5ecbZCpwaf8Mnpn4GlUXCK2WUTsTF-dB4H2F2ImhyDxn2RTG5AWrryumyow4y7qX6zZJY1pW4G7JNXfvWzDldX5Udnhtw7_Usp_eqANHx0D0hREUrKMEGVScZIdjQT2ShEQDt6EdDsU.jpeg)
+
+TLD is the last part of a domain name that comes after the final dot like .com or .org
 ## **domain name system (DNS)**
 
 **![Working of Domain Name System (DNS) Server - GeeksforGeeks](https://lh6.googleusercontent.com/cudRCZtFMGGIkdeNZXurCO-Nz7lu4YaZoT2LHxWuE-CYNDWg8twu3j5iPA2inJjr80D2xiNiVBP_kdChvZOvbwNmB01i_B83xYQiRWsGlwMgu2jbmR0S074sGe-siXLX9RroM7yVt71K)**
-DNS is like the internet’s phonebook. When you type a website address such as www.google.com , the DNS is responsible for finding the correct address that matches the name.
+![Jaringan Komputer: Domain Name System (DNS)](https://2.bp.blogspot.com/_9Zd8WlWE5jc/TDqcVh4TcsI/AAAAAAAAAgo/AvCpQg95cWA/s1600/prinsip-kerja-dns.jpg)
+DNS is like the internet’s phonebook. When you type a website address such as www.google.com, the DNS is responsible for finding the correct address that matches the name.
 ## **storage media technology**
 **![Computer Storage Devices. Definition | by Tharinduprabathjayapathma | Medium](https://lh6.googleusercontent.com/L-YHeLhowT2iKaUENL_kpvxdLR4ibA8eBOaDz6hfbBwpar2SU67dN3_KjFk1AteilBxq3cvhOsKo04uJiDacO376z57A2Wh72ODUr0Im8k-__FALlUQdD-sgdU-d-PToOdR_-OHPdEBm)**
 
-## In other words, a .zip domain is a website designed to mimic the appearance of a .zip file
-
-		Image of a .zip domain site
-
-**![.ZIP Domains](https://lh6.googleusercontent.com/ZpTAwc3Cr-ayPuK23M48K4k2QjVDK9yINnYfMHQ7MO6UB2YM8jgo1tlcVmtgV6mtGp0uh7hgsj3oi9x8gR2xoxaUUtopF82IghkOuJ3Nn2Sky1VdrxpkbOceqtWkxGtU0GPcfeUykdcH)**
 Businesses may use .zip domains to establish a unique online
 
 presence since a website with “.zip” stands out compared to a website with the commonly used “.com”
@@ -35,9 +35,11 @@ It’s meant to be a secure domain that should be faster than other domains.
 
 		A .zip file is a compressed file that holds many other folders and files.
 
-![enter image description here](https://www.sweetwater.com/sweetcare/media/2019/08/How-to-Zip-and-Unzip-Files-Hero-Image.png)
+		image of a .zip file icon on a computer
+		
+![enter image description here](https://imgur.com/kWxobTp.jpeg)
 	
-
+![How to Create and Open Zip Files on PC and Mac | Sweetwater](https://www.sweetwater.com/sweetcare/media/2019/08/How-to-Zip-and-Unzip-Files-Hero-Image.png)
 	
 
 
@@ -46,6 +48,9 @@ It’s meant to be a secure domain that should be faster than other domains.
 
 **![Cannot Open Zipped File? A Full Guide to Fix It! [2023]](https://lh6.googleusercontent.com/dgoGi3k54vdCEgUQrj-HkmqlnS-GIeBSgSPCyBgk3h3iJYpJmGMsIzfwMv3LG-WU0GDGPjfAz_JGhIaszE86zdoH7UNxYVJDc-GaCHmR9h5qDko65FmyAJfUEQ04RoDufM0T02u45fsQ)**
 
+***
+![How to Create a Bootable Windows 10 ISO from a Windows 10 ESD File -  Appuals.com](https://appuals.com/wp-content/uploads/2016/04/esd-to-iso.gif)
+***
 
 
 
@@ -60,6 +65,17 @@ It’s meant to be a secure domain that should be faster than other domains.
 -   personal or business use, people who need to constantly send files around will find it a lot more convenient to use a .zip file. 
 - The smaller size would make it easier to store on a computer and would free up space for other files
 
+## A .zip domain can be a website designed to mimic the appearance of a .zip file to scam users
+
+		Image of a .zip domain site
+
+**![.ZIP Domains](https://lh6.googleusercontent.com/ZpTAwc3Cr-ayPuK23M48K4k2QjVDK9yINnYfMHQ7MO6UB2YM8jgo1tlcVmtgV6mtGp0uh7hgsj3oi9x8gR2xoxaUUtopF82IghkOuJ3Nn2Sky1VdrxpkbOceqtWkxGtU0GPcfeUykdcH)**
+
+## Not all .zip domains are dangerous
+
+
+It's worth noting that while .zip domains can be used maliciously, not all websites with this domain extension are harmful. Many legitimate websites use .zip domains to distribute software, archives, or other files securely. However, users should remain vigilant and take necessary precautions to stay safe online.
+
 ## Why is it dangerous that a .zip domain appears like a .zip file?
 
 		There are three main reasons why, 
@@ -68,39 +84,35 @@ It’s meant to be a secure domain that should be faster than other domains.
 ## Phishing Attacks
 
 **![6 sure signs someone is phishing you&#8212;besides email](https://lh6.googleusercontent.com/r1umOsXTvBoJO4RYVOnvZOHAYIaqWM4eyfIyz7ExHgfac62lxe6VsN8KH1owP_zNdOxbZaC_V-J4ULkFGGb1jTW8XS2X6ygQcZNAwaM0IYIVXaGHhM2Yc3DopgudFKU-6-780rKx5ewz)**
-They can be used in Phishing Attacks, where cybercriminals may create deceptive websites on .zip domains that imitate legitimate platforms or services. These same platforms or services may also use legitimate .zip files, so users are more likely to trust a .zip domain since it appears like a .zip file.
 
-When a user who is accustomed to downloading .zip files from a website encounters a malicious .zip domain. They may download the contents of the .zip domain without much hesitation since they misinterpret it for an official .zip file from the legitimate website.
+**They can be used in Phishing Attacks, where cybercriminals may create deceptive websites on .zip domains that imitate legitimate platforms or services. Users are more likely to trust a .zip domain since it appears like a .zip file.**
 
-They can trick users into entering sensitive information, such as login credentials or financial details, which are then stolen and misused.
+**When a user who is accustomed to downloading .zip files from a website encounters a malicious .zip domain. They are more likely to download the contents of the .zip domain.**
 
-Example:
+**They can trick users into entering sensitive information, such as login credentials or financial details, which are then stolen and misused.**
 
-There is a site called “vimm.net” where many users go to download popular gaming files. The majority of the files are in .zip format, so the users are familiar with seeing that kind of file. If a malicious website was created and called “vimm.zip”, many users may mistake it for the official site since it shares the same name. The malicious site would hold the appearance of .zip files, so users would download it since they are comfortable with .zip files.
+
 ## Exploiting Trust
 
 **![Two faced people](https://lh3.googleusercontent.com/AW7LtY91AnRBwaK5qm7SpL6hRK6oT-ercJ7ISUcVjlJWl4rF0DOQOaaPY4fwfPNr4Ox_J57ZEXwwORjvLwG1wboqf2PVF26XeuJl6SUIobXEueId2YZt6nd0NUKoUQp51xwKwcaCeJ_M)**
-The association of .zip domains with downloadable files can be exploited by attackers to deceive users. They may send phishing emails or create websites that use a .zip domain, claiming to offer useful software, updates, or documents. Many people who trust files with a .zip extension will more likely fall for these scams.
+
+**The association of .zip domains with downloadable files can be exploited by attackers to deceive users. They may send phishing emails or create websites that use a .zip domain, claiming to offer useful software, updates, or documents. Many people who trust files with a .zip extension will more likely fall for these scams.**
 
 ## **Malware Distribution**
 
 **![security risk - phishing / malware / social engineering](https://lh6.googleusercontent.com/h_j56UpdrUq_hXXbfTPpMNAAGPq7LRVJfS9CX2KxGNu-CJMmaeUAkGT0yWhj3w_mQ-n0R2gJ1K8JDtZhNPX4Nug_e-bo179PouAz5HY6J0U5uImMPIxUBOq7Wfl9-W86eI-P08XSmBp0)**
+![Types of Malware | Learn Top 9 Types of Malware With Symptoms](https://cdn.educba.com/academy/wp-content/uploads/2019/11/Types-of-Malware.png)
+
 **Attackers may use .zip domains to host malicious files, such as malware or ransomware, disguised as .zip downloads. Unsuspecting users who download and open these files could unknowingly infect their devices.**
 
 # **How to protect yourself from malicious .zip domains?**
 
 **User Vigilance**
 **![Cybersecurity: End user vigilance key to keeping network safe, passing inspection](https://lh6.googleusercontent.com/dacLsVX9qygtZjypX86BKRCmI1xIR2jGXRlkJ_yabMsWONFRAN6ykNlalmUv1KEktAfcu2TQgeempijhcG0smmb6NllLMbBQlHG7C2M-lihaXR4JyzSIydLwjDGDzJC6lZp2UDCSDejf)**
-To protect against potential malicious use of .zip domains, it is important for people to be careful when downloading files from unfamiliar websites. It all depends on a user's judgment. They should verify the legitimacy and reputation of the source before proceeding with any downloads. It is also recommended to use reliable security software that can detect and prevent potential threats.
 
-Anti-virus protection
+**To protect against potential malicious use of .zip domains, it is important for people to be careful when downloading files from unfamiliar websites. It all depends on a user's judgment. They should verify the legitimacy and reputation of the source before downloading.**
 
-If you download any file off of a .zip domain, then having an antivirus software will help safeguard your computer. You can use the built-in software called ‘Windows Defender’ or another 3rd party software such as McAfee or Norton to protect your computer. Although it is not a 100% guarantee, it will give your system a stronger chance of blocking any malicious file compared to having no anti-virus protection in place.
-## Not all .zip domains are dangerous
-
-
-It's worth noting that while .zip domains can be used maliciously, not all websites with this domain extension are harmful. Many legitimate websites use .zip domains to distribute software, archives, or other files securely. However, users should remain vigilant and take necessary precautions to stay safe online.
-
+**It is also recommended to use reliable security software that can detect and prevent potential threats. This will protect your system if you accidentally download any malicious file off a .zip domain. You can use the built-in software called ‘Windows Defender’ or another 3rd party software such as McAfee or Norton to protect your computer. Although it is not a 100% guarantee, it will give your system a stronger chance of defending itself.**
 
 ## Works Cited 
 
@@ -164,6 +176,3 @@ Newman, Lily Hay. “The Real Risks in Google’s New .Zip and .Mov Domains.” 
 [What is a Top-Level Domain and Why it’s Important | Bobology.com](https://www.bobology.com/public/What-is-a-TopLevel-Domain-and-Why-its-Important.cfm)
 
 bobology.com. “What Is a Top-Level Domain and Why It’s Important.” www.bobology.com, Aug. 2017, www.bobology.com/public/What-is-a-TopLevel-Domain-and-Why-its-Important.cfm.
-
-
-

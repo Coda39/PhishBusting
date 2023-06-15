@@ -1,5 +1,8 @@
 import adapter from '@sveltejs/adapter-auto';
 import { vitePreprocess} from '@sveltejs/kit/vite'
+import remarkUnwrapImages from 'remark-unwrap-images'
+import remarkToc from 'remark-toc'
+import rehypeSlug from 'rehype-slug'
 
 import {mdsvex, escapeSvelte} from 'mdsvex'
 import shiki from 'shiki'
@@ -16,6 +19,8 @@ const mdsvexOptions = {
 			return `{@html \`${html}\` }`	
 		}
 	},
+	remarkPlugins:[remarkUnwrapImages,[remarkToc,{tight:true}]],
+	rehypePlugins:[rehypeSlug],
 }
 
 /** @type {import('@sveltejs/kit').Config} */
