@@ -67,10 +67,12 @@ It’s meant to be a secure domain that should be faster than other domains.
 
 ## A .zip domain can be a website designed to mimic the appearance of a .zip file to scam users
 
-		Image of a .zip domain site
+**Image of a .zip domain site**
 
 **![.ZIP Domains](https://lh6.googleusercontent.com/ZpTAwc3Cr-ayPuK23M48K4k2QjVDK9yINnYfMHQ7MO6UB2YM8jgo1tlcVmtgV6mtGp0uh7hgsj3oi9x8gR2xoxaUUtopF82IghkOuJ3Nn2Sky1VdrxpkbOceqtWkxGtU0GPcfeUykdcH)**
 
+![Scam Of The Week: Locked PDF Phishing Attack](https://blog.knowbe4.com/hs-fs/hubfs/pdf_phishing.png?width=788&height=445&name=pdf_phishing.png)
+**A malicious pdf file within a .zip domain**
 ## Not all .zip domains are dangerous
 
 
